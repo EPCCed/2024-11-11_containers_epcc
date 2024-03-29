@@ -3,6 +3,24 @@ layout: lesson
 root: .  # Is the only page that doesn't follow the pattern /:path/index.html
 permalink: index.html  # Is the only page that doesn't follow the pattern /:path/index.html
 ---
+
+Times:
+- Tuesday 16 April 2024 10:00 - 16:30
+- Wednesday 17 April 2024 09:00 - 14:30
+
+Location:
+
+Room LG14<br/> 
+Murray Learning Centre <br/>
+Edgbaston Campus<br/>
+Birmingham<br/>
+B15 2FG<br/>
+[Murray Learning Centre location](https://www.archer2.ac.uk/training/locations/birmingham)
+
+Instructor: [Andy Turner (EPCC, University of Edinburgh)](mailto:a.turner@epcc.ed.ac.uk)
+
+<hr/>
+
 This session aims to introduce the use of Docker and Singularity containers with the goal of using them to effect reproducible computational environments. Such environments are useful for ensuring reproducible research outputs, for example.
 
 > ## After completing this session you should:
@@ -47,10 +65,3 @@ The practical work in this lesson will use Docker on your own laptop and Singula
 
 {% include links.md %}
 
-{% comment %}
-
-TODO: systematically check for Windows-isms
-
-<!--  LocalWords:  prereq links.md endcomment
- -->
-{% endcomment %}
