@@ -17,7 +17,7 @@ keypoints:
 - "Containerization improves upon the virtualization of whole computers by allowing efficient management of the host computer's memory and storage resources."
 - "Containers are built from 'recipes' that define the required set of software components and the instructions necessary to build/install them within a container image."
 - "Docker is just one software platform that can create containers and the resources they use."
-start: true
+start: true 
 ---
 
 > ## Learning about Docker Containers
