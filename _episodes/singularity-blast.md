@@ -37,7 +37,7 @@ Download the [blast_example.tar.gz]({{ page.root }}/files/blast_example.tar.gz).
 Unpack the archive which contains the downloaded data required for the BLAST+ example:
 
 ~~~
-remote$ wget https://epcced.github.io/2023-09-21_Singularity_Nottingham/files/blast_example.tar.gz
+remote$ wget https://epcced.github.io/2024-04-16_containers_bham/files/blast_example.tar.gz
 remote$ tar -xvf blast_example.tar.gz
 ~~~
 {: .language-bash}

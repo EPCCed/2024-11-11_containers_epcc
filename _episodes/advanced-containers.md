@@ -29,7 +29,7 @@ In your shell, change to the `sum` folder in the `docker-intro` folder and look 
 the files inside.
 
 ~~~
-$ cd ~/Desktop/docker-intro/sum
+$ cd docker-intro/sum
 $ ls
 ~~~
 {: .language-bash}

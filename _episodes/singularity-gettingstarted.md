@@ -86,10 +86,10 @@ replace references to `singularity` with `apptainer`, if you wish.
 ## Checking Singularity works
 
 [Login to ARCHER2](https://docs.archer2.ac.uk/user-guide/connecting/) using the
-login address `training.dyn.archer2.ac.uk`:
+login address `login.archer2.ac.uk`:
 
 ~~~
-ssh -i /path/to/ssh-key user@training.dyn.archer2.ac.uk
+ssh -i /path/to/ssh-key user@login.archer2.ac.uk
 ~~~
 
 Now check that the `singularity` command is available in your terminal:

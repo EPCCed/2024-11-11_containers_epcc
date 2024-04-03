@@ -1,5 +1,5 @@
 ---
-title: "Additional topics and next steps"
+title: "(Optional) Additional topics and next steps"
 teaching: 0
 exercises: 0
 questions:

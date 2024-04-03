@@ -97,11 +97,18 @@ If you haven't already, exit out of the interactively running container.
 A `Dockerfile` is a plain text file with keywords and commands that
 can be used to create a new container image.
 
-From your shell, go to the folder you downloaded at the start of the lesson
-and print out the Dockerfile inside:
+Download the [docker-intro.zip]({{ page.root }}/files/docker-intro.zip) file and expand it, e.g.
 
 ~~~
-$ cd ~/Desktop/docker-intro/basic
+wget https://epcced.github.io/2024-04-16_containers_bham/files/docker-intro.zip
+unzip docker-intro.zip
+~~~
+{: .language-bash}
+
+From your shell, go to the folder you just created by expanding the zip file and print out the Dockerfile inside:
+
+~~~
+$ cd docker-intro/basic
 $ cat Dockerfile
 ~~~
 {: .language-bash}

@@ -35,7 +35,7 @@ Singularity> whoami
 {: .language-bash}
 
 ~~~
-artta118
+artta142
 ~~~
 {: .output}
 
@@ -158,4 +158,4 @@ Finally, you can also copy data into a container image at build time if there is
 ## References
 
 \[1\] Gregory M. Kurzer, Containers for Science, Reproducibility and Mobility: Singularity P2. Intel HPC Developer Conference, 2017. Available
-at: https://www.intel.com/content/dam/www/public/us/en/documents/presentation/hpc-containers-singularity-advanced.pdf
+at: [https://www.intel.com/content/dam/www/public/us/en/documents/presentation/hpc-containers-singularity-advanced.pdf]
