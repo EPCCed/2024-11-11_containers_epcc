@@ -5,8 +5,8 @@ permalink: index.html  # Is the only page that doesn't follow the pattern /:path
 ---
 
 Times:
-- Tuesday 16 April 2024 10:00 - 16:30
-- Wednesday 17 April 2024 09:00 - 14:30
+- Tuesday 16 April 2024 10:00 - 15:30
+- Wednesday 17 April 2024 10:00 - 14:30
 
 Location:
 
@@ -17,7 +17,7 @@ Birmingham<br/>
 B15 2FG<br/>
 [Murray Learning Centre location](https://www.archer2.ac.uk/training/locations/birmingham)
 
-Instructor: [Andy Turner (EPCC, University of Edinburgh)](mailto:a.turner@epcc.ed.ac.uk)
+Instructor: [Juan Herrera (EPCC, University of Edinburgh)](https://www.epcc.ed.ac.uk/about-us/our-team/dr-juan-rodriguez-herrera)
 
 <hr/>
 
