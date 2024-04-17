@@ -35,7 +35,7 @@ Singularity> whoami
 {: .language-bash}
 
 ~~~
-artta142
+jc1000
 ~~~
 {: .output}
 
@@ -81,9 +81,9 @@ Host system:                                                      Singularity co
 │   ├── group  ─> user's group added to group file in container ─>│   ├── group
 │   └── passwd ──> user info added to passwd file in container ──>│   └── passwd
 ├── home                                                          ├── usr
-│   └── artta118 ───> user home directory made available ──> ─┐   ├── sbin
+│   └── jc1000 ───> user home directory made available ──> ─┐     ├── sbin
 ├── usr                 in container via bind mount         │     ├── home
-├── sbin                                                    └────────>└── artta118
+├── sbin                                                    └────────>└── jc1000
 └── ...                                                           └── ...
 
 ~~~

@@ -150,7 +150,7 @@ A quick overview of what the above definition file is doing:
 > > You should be able to build an image and push it to Docker Hub as follows:
 > > 
 > > ~~~
-> > $ docker image build --platform linux/amd64 -t alice/osu-benchmarks
+> > $ docker image build --platform linux/amd64 -t alice/osu-benchmarks .
 > > $ docker push alice/osu-benchmarks
 > > ~~~
 > > {: .language-bash}
