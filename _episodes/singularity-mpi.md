@@ -1,5 +1,6 @@
 ---
 title: "(Optional) Running MPI parallel jobs using Singularity containers"
+start: true
 teaching: 30
 exercises: 40
 questions:

@@ -7,7 +7,7 @@
 # dc: Data Carpentry
 # lc: Library Carpentry
 # cp: Carpentries (to use for instructor traning for instance)
-carpentry: "swc"
+carpentry: "cp"
 
 # Overall title for pages.
 title: "Reproducible Computational Environments Using Containers: Introduction to Docker and Singularity"
@@ -63,7 +63,7 @@ instructor_post_survey: "https://www.surveymonkey.com/r/instructor_training_post
 
 
 # Start time in minutes (0 to be clock-independent, 540 to show a start at 09:00 am).
-start_time: 600
+start_time: 570
 
 # Specify that things in the episodes collection should be output.
 collections:
@@ -108,24 +108,21 @@ remote_theme: carpentries/carpentries-theme@main
 episode_order:
   - introduction
   - meet-docker
-  - d1-am-break
   - running-containers
+  - d1-am-break
   - managing-containers
   - docker-hub
-  - d1-lunch
   - creating-container-images
   - advanced-containers
-  - d1-pm-break
+  - d1-lunch
   - docker-image-examples
   - singularity-gettingstarted
   - singularity-shell
-  - d2-am-break
   - singularity-docker
+  - d1-pm-break
   - singularity-cache
   - singularity-files
-  - d2-lunch
   - singularity-blast
   - reproducibility
-  - d2-pm-break
-  - singularity-mpi
-  - advanced-topics
+# - singularity-mpi
+# - advanced-topics

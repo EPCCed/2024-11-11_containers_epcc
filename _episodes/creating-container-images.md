@@ -1,7 +1,7 @@
 ---
 title: "Creating Your Own Container Images"
-teaching: 20
-exercises: 15
+teaching: 15
+exercises: 10
 questions:
 - "How can I make my own Docker container images?"
 - "How do I document the 'recipe' for a Docker container image?"

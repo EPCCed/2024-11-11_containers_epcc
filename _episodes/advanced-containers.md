@@ -1,6 +1,6 @@
 ---
 title: "Creating More Complex Container Images"
-teaching: 30
+teaching: 20
 exercises: 30
 questions:
 - "How can I make more complex container images? "

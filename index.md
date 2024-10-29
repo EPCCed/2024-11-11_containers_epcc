@@ -4,20 +4,14 @@ root: .  # Is the only page that doesn't follow the pattern /:path/index.html
 permalink: index.html  # Is the only page that doesn't follow the pattern /:path/index.html
 ---
 
-Times:
-- Tuesday 16 April 2024 10:00 - 15:30
-- Wednesday 17 April 2024 10:00 - 14:30
+When? Monday, 11th November 2024, 09:30 - 17:00
 
-Location:
+Where?<br/>
+[Edinburgh Training and Conference Venue](https://maps.app.goo.gl/8mUyS68vVajhtoHY6)<br/> 
+16 St Mary's St, Edinburgh EH1 1SU<br/>
 
-Room LG14<br/> 
-Murray Learning Centre <br/>
-Edgbaston Campus<br/>
-Birmingham<br/>
-B15 2FG<br/>
-[Murray Learning Centre location](https://www.archer2.ac.uk/training/locations/birmingham)
-
-Instructor: [Juan Herrera (EPCC, University of Edinburgh)](https://www.epcc.ed.ac.uk/about-us/our-team/dr-juan-rodriguez-herrera)
+Instructor: [Juan Herrera (EPCC, University of Edinburgh)](https://www.epcc.ed.ac.uk/about-us/our-team/dr-juan-rodriguez-herrera)<br/>
+Helper:  [Michael Bareford (EPCC, University of Edinburgh)](https://www.epcc.ed.ac.uk/about-us/our-team/dr-michael-bareford)
 
 <hr/>
 
