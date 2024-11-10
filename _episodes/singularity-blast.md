@@ -282,8 +282,8 @@ through Singularity containers. You may have noticed that some things just worke
 you needing to set them up even though you were running using containers:
 
 1. We did not need to explicitly bind any files/directories in to the container. This worked
-   because Singularity automatically binds the current directory into the running container, so
-   any data in the current directory (or its subdirectories) will generally be available in
+   because Singularity automatically binds the home directory into the running container, so
+   any data in the home directory (or its subdirectories) will generally be available in
    running Singularity containers. (If you have used Docker containers, you will notice that
    this is different from the default behaviour there.)
 2. Access to the internet is automatically available within the running container in the same
