@@ -417,7 +417,7 @@ COPY sum.py /home
 # set script permissions
 RUN chmod +x /home/sum.py
 # add /home folder to the PATH
-ENV PATH /home:$PATH
+ENV PATH=/home:$PATH
 ~~~
 
 Build and test it:
