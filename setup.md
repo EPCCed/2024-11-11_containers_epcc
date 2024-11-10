@@ -145,7 +145,7 @@ Once you have your key pair, follow the process to create an account on ARCHER2:
 
 1. [Login to SAFE](https://safe.epcc.ed.ac.uk)
 2. Go to the Menu "Login accounts" and select "Request login account"
-3. Choose the `ta142` project "Choose Project for Machine Account" box and click "Next"
+3. Choose the `ta178` project "Choose Project for Machine Account" box and click "Next"
 4.  Select the *ARCHER2* machine in the list of available machines
 5.  Click *Next*
 6.  Enter a username for the account and an SSH public key
@@ -162,7 +162,7 @@ To log into ARCHER2, you will need to use a one time code as well as your SSH ke
 
 ### Log into ARCHER2
 
-You should now be able to log into ARCHER2 by following the [login instructions in the ARCHER2 documentation](https://docs.archer2.ac.uk/user-guide/connecting/) but using the login address `login4.archer2.ac.uk`. As noted above, in addition to the SSH key you should already have specified for the account, you will also need to register an autheticator app to generate TOTP for ARCHER2 login.
+You should now be able to log into ARCHER2 by following the [login instructions in the ARCHER2 documentation](https://docs.archer2.ac.uk/user-guide/connecting/) but using the login address `login.archer2.ac.uk`. As noted above, in addition to the SSH key you should already have specified for the account, you will also need to register an autheticator app to generate TOTP for ARCHER2 login.
 
 Note, you will need three credentials the first time you log into ARCHER2: SSH key, MFA TOTP and one-shot password from SAFE. Once you have successfully logged in, you should never need to use a password again, your access will be via SSH key + TOTP.
 
