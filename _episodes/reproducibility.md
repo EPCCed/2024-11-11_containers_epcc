@@ -33,7 +33,7 @@ that you had when you did the original work.
 
 Some examples of why containers are an attractive technology to help with reproducibility include:
 
-  - The same computational work can be run across multiple different technologies seamlessly (e.g. Windows, macOS, Linux).
+  - The same computational work can be run across multiple different technologies seamlessly (e.g. Linux, macOS, Windows 10 with WSL).
   - You can save the exact process that you used for your computational work (rather than relying on potentially incomplete notes).
   - You can save the exact versions of software and their dependencies in the container image.
   - You can access legacy versions of software and underlying dependencies which may not be generally available any more.
