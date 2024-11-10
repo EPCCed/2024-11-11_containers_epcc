@@ -59,7 +59,7 @@ We can test our installation by running a Python command:
 ~~~
 {: .language-bash}
 
-Once Python is installed, we can add Python packages using the apk installer (instead of pip):
+Once Python is installed, we can add Python packages using the `apk` installer (instead of `pip`):
 ~~~
 /# apk add cython
 ~~~
@@ -205,7 +205,7 @@ $ docker image build -t alice/alpine-python .
 > a directory! In the command above, we've used the current working directory (`.`) of
 > the shell as the final input to the `docker image build` command. This option provides
 > what is called the *build context* to Docker -- if there are files being copied
-> into the built container image [more details in the next episode](./advanced-containers)
+> into the built container image [more details in the next episode](./advanced-containers.md)
 > they're assumed to be in this location. Docker expects to see a Dockerfile in the
 > build context also (unless you tell it to look elsewhere).
 >
