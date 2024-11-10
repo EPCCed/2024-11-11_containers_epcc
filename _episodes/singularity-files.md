@@ -107,7 +107,7 @@ Host system:                                                      Singularity co
 > > the files in the `/` directory are owned by `root`, as you would probably expect on any Linux system. If you look at the files in your home
 > > directory, they should be owned by you.
 > >
-> > **A Ex1:** We've already seen from the previous answer that the files in `/` are owned by `root` so we would nott expect to be able to create
+> > **A Ex1:** We've already seen from the previous answer that the files in `/` are owned by `root` so we would not expect to be able to create
 > > files there if we're not the root user. However, if you tried to remove `/singularity` you would have seen an error similar to the following:
 > > `cannot remove '/singularity': Read-only file system`. This tells us something else about the filesystem. It's not just that we do not have
 > > permission to delete the file, the filesystem itself is read-only so even the `root` user would not be able to edit/delete this file. We will
@@ -123,8 +123,8 @@ Host system:                                                      Singularity co
 
 You will sometimes need to bind additional host system directories into a container you are using over and above those bound by default. For example:
 
-- There may be a shared dataset in a location that you need access to in the container
-- You may require executables and software libraries from the host system in the container
+- There may be a shared dataset in a location that you need access to in the container;
+- You may require executables and software libraries from the host system in the container.
 
 The `-B` option to the `singularity` command is used to specify additional binds. For example, to bind the `/opt/cray` directory (where the HPE Cray programming environment is stored) into a container you could use:
 
@@ -158,4 +158,4 @@ Finally, you can also copy data into a container image at build time if there is
 ## References
 
 \[1\] Gregory M. Kurzer, Containers for Science, Reproducibility and Mobility: Singularity P2. Intel HPC Developer Conference, 2017. Available
-at: [https://www.intel.com/content/dam/www/public/us/en/documents/presentation/hpc-containers-singularity-advanced.pdf]
+at: [https://www.intel.com/content/dam/www/public/us/en/documents/presentation/hpc-containers-singularity-advanced.pdf](https://www.intel.com/content/dam/www/public/us/en/documents/presentation/hpc-containers-singularity-advanced.pdf)
