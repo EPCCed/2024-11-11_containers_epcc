@@ -205,7 +205,7 @@ $ docker image build -t alice/alpine-python .
 > a directory! In the command above, we've used the current working directory (`.`) of
 > the shell as the final input to the `docker image build` command. This option provides
 > what is called the *build context* to Docker -- if there are files being copied
-> into the built container image [more details in the next episode](https://epcced.github.io/2024-11-11_containers_epcc/advanced-containers/index.html)
+> into the built container image ([more details in the next episode](https://epcced.github.io/2024-11-11_containers_epcc/advanced-containers/index.html))
 > they're assumed to be in this location. Docker expects to see a Dockerfile in the
 > build context also (unless you tell it to look elsewhere).
 >
