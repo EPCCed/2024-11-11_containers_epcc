@@ -44,7 +44,7 @@ INFO:    Creating SIF file...
 ~~~
 {: .output}
 
-Note how we see Singularity saying that it's "_Converting OCI blobs to SIF format_". We then see the layers of the Docker container image being downloaded and unpacked and written into a single SIF file. Once the process is complete, we should see the python-3.9.6.sif container image file in the current directory.
+Note how we see Singularity saying that it's "_Converting OCI blobs to SIF format_". We then see the layers of the Docker container image being downloaded and unpacked and written into a single SIF file. Once the process is complete, we should see the `python-3.9.6.sif` container image file in the current directory.
 
 We can now run a container from this container image as we would with any other Singularity container image.
 
