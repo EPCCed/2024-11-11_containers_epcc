@@ -9,9 +9,8 @@ best learning experience:
 2. Make sure you have a working installation of Docker Desktop or Docker on your laptop
 3. Make sure you have an account on a remote HPC system with Singularity/Apptainer installed. There are
    a few options for this course:
-   1. Use an existing account on [BlueBEAR](https://www.birmingham.ac.uk/research/arc/bear/bluebear)
-   2. Use an existing account on [ARCHER2](https://www.archer2.ac.uk)
-   3. Create an account on ARCHER2 - details on how to do this are provided below
+   1. Use an existing account on [ARCHER2](https://www.archer2.ac.uk)
+   2. Create an account on ARCHER2 - details on how to do this are provided below
 
 ## Create an account on Docker Hub
 

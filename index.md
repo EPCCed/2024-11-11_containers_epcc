@@ -4,14 +4,16 @@ root: .  # Is the only page that doesn't follow the pattern /:path/index.html
 permalink: index.html  # Is the only page that doesn't follow the pattern /:path/index.html
 ---
 
-When? Monday, 11th November 2024, 09:30 - 17:00
+**When?**<br/>
+Monday, 11th November 2024, 09:30 - 17:00
 
-Where?<br/>
+**Where?**
 [Edinburgh Training and Conference Venue](https://maps.app.goo.gl/8mUyS68vVajhtoHY6)<br/> 
 16 St Mary's St, Edinburgh EH1 1SU<br/>
 
-Instructor: [Juan Herrera (EPCC, University of Edinburgh)](https://www.epcc.ed.ac.uk/about-us/our-team/dr-juan-rodriguez-herrera)<br/>
-Helper:  [Michael Bareford (EPCC, University of Edinburgh)](https://www.epcc.ed.ac.uk/about-us/our-team/dr-michael-bareford)
+**Instructors:**<br/>
+[Juan Herrera (EPCC, University of Edinburgh)](https://www.epcc.ed.ac.uk/about-us/our-team/dr-juan-rodriguez-herrera)<br/>
+[Michael Bareford (EPCC, University of Edinburgh)](https://www.epcc.ed.ac.uk/about-us/our-team/dr-michael-bareford)
 
 <hr/>
 

@@ -55,7 +55,7 @@ remote$ singularity cache list -v
 ~~~
 There are 2 container file(s) using 129.35 MiB and 7 oci blob file(s) using 41.49 MiB of space
 Total space used: 170.84 MiB
-artta118@ln04:~/test> singularity cache list -v
+userid@ln04:~/test> singularity cache list -v
 NAME                     DATE CREATED           SIZE             TYPE
 50b2668d8d3f74c49a7280   2023-09-12 11:41:31    0.96 KiB         blob
 76f124aca9afaf3f75812d   2023-09-12 11:41:30    2.51 MiB         blob
